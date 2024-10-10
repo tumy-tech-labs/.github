@@ -1,4 +1,5 @@
-## Hi there 👋
+# TUMY-TECH LABS
+Tumy-Tech Labs is dedicated to building innovative solutions that prioritize privacy, security, and portability. Our projects focus on decentralized identity and verified credentials, enabling users to maintain control over their digital identities across platforms. We are committed to open-source collaboration, empowering developers and organizations to build the future of self-sovereign identity.
 
 <!--
 
